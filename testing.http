@@ -1,7 +1,7 @@
 ### ==========================================
 ### 🌍 ENVIRONMENT VARIABLES
 ### ==========================================
-@baseUrl = https://internship-blog-api.onrender.com
+@baseUrl = https://internship-blog-api.onrender.com/api
 
 # ⚠️ INSTRUCTIONS:
 # 1. Run the LOGIN or REGISTER route below.
