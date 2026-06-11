@@ -7,7 +7,7 @@
 # 1. Run the LOGIN or REGISTER route below.
 # 2. Copy the "accessToken" from the server response.
 # 3. Paste it here:
-@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMmE0N2JmNWM4MTY2YTBmZmJlMTNkNiIsImlhdCI6MTc4MTE1NTkyNywiZXhwIjoxNzgxMTU2ODI3fQ.BCpPrWL7UHYWIVDjYdI197AfAa-_LQJCa0eLEIuEq1M
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMmE0N2JmNWM4MTY2YTBmZmJlMTNkNiIsImlhdCI6MTc4MTE2MTc0NywiZXhwIjoxNzgxMTYyNjQ3fQ.4NdBv5v8uTZqCNYFGFhPV5QMUAYC--Y00ETtP0qptpI
 
 # 4. Run the CREATE BLOG route.
 # 5. Copy the "_id" of the new blog from the server response.
