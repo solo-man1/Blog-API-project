@@ -60,3 +60,6 @@ Query Parameters for GET /api/blogspage :
  • limit : Number of results per page (default: 10)
  • search : Search query to filter blogs by title or content.
  • Example: GET /api/blogs?page=1&limit=5&search=node
+
+ Live Render URL:https://internship-blog-api.onrender.com
+Git-hub Repository:https://github.com/solo-man1/Blog-API-project
